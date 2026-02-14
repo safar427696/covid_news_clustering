@@ -1,0 +1,2 @@
+# Ignore large Word2Vec models
+models/wiki.de.vec
