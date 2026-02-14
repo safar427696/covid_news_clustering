@@ -1,2 +1,11 @@
 # Ignore large Word2Vec models
 models/wiki.de.vec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+.env
