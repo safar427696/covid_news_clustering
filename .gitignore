@@ -1,5 +1,8 @@
-# Ignore large Word2Vec models
-models/wiki.de.vec
+# Ignore everything in the models folder
+models/*
+
+# But do NOT ignore the .gitkeep file
+!models/.gitkeep
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/

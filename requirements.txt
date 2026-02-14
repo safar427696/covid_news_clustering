@@ -1,14 +1,13 @@
-# --- NLP & Scraping ---
+# --- Machine Learning & Math ---
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1
+
+
+# --- Scraping & NLP ---
 newspaper3k==0.2.8
 gensim==4.3.2
 nltk==3.8.1
 spacy==3.7.2
+sklearn
 
-# --- Machine Learning & Math ---
-numpy==1.26.4
-scikit-learn==1.4.1
-pandas==2.2.1
-
-# --- Visualization (For your README plots) ---
-matplotlib==3.8.3
-seaborn==0.13.2

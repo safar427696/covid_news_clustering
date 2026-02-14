@@ -29,7 +29,7 @@ This project utilizes a pre-trained Word2Vec (fastText) model to generate semant
 To run the project, please follow these steps:
 
     Download the German Wiki vectors from Facebook's fastText mirror:
-    👉 Download wiki.de.vec (5.5 GB)
+    👉 Download wiki.de.vec (5.5 GB): https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.de.vec
 
     Move the downloaded file into the /models directory of this project.
 
