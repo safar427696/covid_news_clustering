@@ -12,3 +12,6 @@ models/*
 __pycache__/
 *.py[cod]
 .env
+
+# Exclude word.docx
+project_report.docx
